@@ -59,7 +59,7 @@
 &kp EQUAL              &kp NUMBER_7                  &kp N8             &kp N9                     &kp SLASH         &kp RG(P)  &kp RG(W)    &kp RG(R)      &kp RG(Y)  &kp TAB
 &mt LEFT_CONTROL PLUS  &mt LA(RC(LEFT_ALT)) NUMBER_4 &mt LEFT_SHIFT N5  &mt LEFT_COMMAND NUMBER_6  &kp LEFT_COMMAND  &kp LG(F)  &kp RG(T)    &kp RG(Z)      &kp RG(S)  &kp BACKSPACE
 &kp N0                 &kp NUMBER_1                  &kp NUMBER_2       &kp NUMBER_3               &kp ASTERISK      &kp AT     &kp AT_SIGN  &kp RG(LS(V))  &kp RG(X)  &kp DEL
-                                                                        &trans                     &trans            &trans     &trans       &trans         &trans
+                                                     &trans             &trans                     &trans            &trans     &trans       &trans
             >;
         };
 
@@ -69,7 +69,7 @@
 &kp F7               &kp F8           &kp F9             &kp F10              &kp F11        &kp HOME  &kp PAGE_DOWN  &kp LC(UP_ARROW)  &kp PAGE_DOWN  &kp END
 &mt LEFT_CONTROL F1  &mt LEFT_ALT F2  &mt LEFT_SHIFT F3  &mt LEFT_COMMAND F4  &kp F5         &kp LEFT  &kp DOWN       &kp UP_ARROW      &kp RIGHT      &kp BACKSPACE
 &kp F12              &kp F6           &kp LEFT_BRACKET   &kp RIGHT_BRACKET    &kp BACKSLASH  &kp F5    &kp F4         &kp TILDE         &kp SQT        &kp SEMICOLON
-                                                         &trans               &trans         &trans    &trans         &trans            &trans
+                                      &trans             &trans               &trans         &trans    &trans         &trans
             >;
         };
 
